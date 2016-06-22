@@ -3,7 +3,8 @@
   Sequence LEDs to represent traffic lights... and perhaps more
 
   Jonathan Sanderson, Northumbria University.
-  v0.1 2016-03-04
+  v0.1 2016-06-22
+  Changes from Arduino implementation limited to pin numbering
  */
 
 #define RED 12
